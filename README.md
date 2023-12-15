@@ -3,7 +3,7 @@ A guide to call spoofing
 
 to make call spoofing you need to have a SIP trunk and a softphone to log into 
 
-you can find SIP trunk providers on the internet some of them are but if you want to use these providers you might have to set them up on your own.
+you can find SIP trunk providers on the internet but if you want to use these providers you might have to set them up on your own.
 
 https://www.avoxi.com/india-sip-trunk/
 

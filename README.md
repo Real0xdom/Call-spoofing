@@ -18,6 +18,8 @@ It will provide you sip server address and log into your portsSIP softphone with
 
 https://panel.huntercell.fun/ 
 
+telegram: [@DrSpoofing](https://t.me/DrSpoofing)
+
 
 there are other SIP trunk route providers as well some of them might offer a minimum rate, but you have to message them on telegram and ask for which countries they provide and at what rate.
 they will provide you SIP Server address, User ID, and Password.

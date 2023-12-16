@@ -11,7 +11,7 @@ https://calltrading.net
 
 https://vonage.com
 
-there are various route providers to A to Z countries but one of the best I liked is 
+there are various route providers to A to Z countries but one of the best I liked are given below
 
 And to my surprise, the following provider has made a web app for this so you can use it without any problem, you can go to the website create an account, and use it.
 It will provide you sip server address and log into your portsSIP softphone with that sip server address and your user ID and password.

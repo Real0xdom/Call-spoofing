@@ -48,7 +48,9 @@ if none of them responds you can message in any of the below groups and ask for 
 The common route format they provide: 
 
 magnusbilling server address: 123.133.131.xx
+
 username: user
+
 password: pass
 
 use this information to log into your portsip app on mobile and also in your browser into Magnus billing server so you can change your caller ID.

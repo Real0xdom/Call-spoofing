@@ -20,6 +20,7 @@ https://panel.huntercell.fun/
 
 telegram: [@DrSpoofing](https://t.me/DrSpoofing)
 
+#**Route providers contact**
 
 there are other SIP trunk route providers as well some of them might offer a minimum rate, but you have to message them on telegram and ask for which countries they provide and at what rate.
 they will provide you SIP Server address, User ID, and Password.
@@ -33,11 +34,23 @@ Divyanka Agrahari: [@divya_6392](https://t.me/DrSpoofing)
 
 if none of them responds you can message in any of the below groups and ask for a route for spoofing to certain countries and they'll message you, also be aware of scammers to confirm you can ask for test credit from them and they'll give you small credit which you can use to log into your portsip softphone and make the call if you confirm it works then only you can purchase from them. 
 
-Telegram groups: 
+#**Telegram groups: **
 
 [VoIP business solution](https://t.me/voip_business_solutions)
 
 [MagnusBilling EN](https://t.me/joinchat/NXwoZRPGpG6rPqp3yssLzQ)
 
 [VOIP Selling Group](https://t.me/+YsZ9rVZmCzJlZGI1)
+
+
+#**Usage:**
+
+The common route format they provide: 
+
+magnusbilling server address: 123.133.131.xx
+username: user
+password: pass
+
+use this information to log into your portsip app on mobile and also in your browser into Magnus billing server so you can change your caller ID.
+
 
